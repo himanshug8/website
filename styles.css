@@ -1,0 +1,89 @@
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+    line-height: 1.6;
+    font-size: 16px;
+    color: #222;
+    background-color: #fefefe;
+    margin: 0 auto;
+    max-width: 50rem;
+    padding: 1rem;
+}
+
+/* Navigation */
+.site-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.site-nav a {
+    text-decoration: none;
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+}
+
+/* Header */
+header {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #000;
+}
+
+header p {
+    color: #555;
+    margin-top: 0.5rem;
+}
+
+/* Footer */
+footer {
+    margin-top: 3rem;
+    border-top: 1px solid #ddd;
+    padding-top: 1rem;
+    text-align: center;
+}
+
+footer a {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #ddd;
+        background-color: #121212;
+    }
+
+    .site-nav a,
+    footer a {
+        color: #ff6347;
+    }
+
+    .site-nav ul {
+        border-color: #444;
+    }
+
+    footer {
+        border-color: #444;
+    }
+}
