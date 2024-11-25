@@ -1,1 +1,3 @@
-# website
+This is a personal website, and if you are reading this; I take you as a curious guy/gal. follow me if you want. and now that you are here you can check out the real domain attached  to this website. [thisguyfucks.in](https://himanshug8.github.io/website/)... I regret buying this, because i was a fan at that time and it will be here for a year until it expires or some shit happens. But it germinated from binge watching silicon valley. A great web show. Do check it out. this guy fucks is the running joke in the web show. Here is the link to the reddit discussion on exactly this: [Reddit: ThisGuyFucks](https://www.reddit.com/r/OutOfTheLoop/comments/393rqo/what_is_this_this_guy_fucks_joke_i_keep_seeing/). You see, a domain name is shit if you have to explain yourself.
+
+................................................
